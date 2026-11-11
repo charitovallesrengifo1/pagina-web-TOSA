@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 24px;
+  font-family: Arial, sans-serif;
+  background: #faf5ee;
+  color: #3b2518;
+}
+.tarjeta {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 24px;
+  background: white;
+  border-radius: 16px;
+}
+button {
+  padding: 12px 18px;
+  background: #6b3e26;
+  color: white;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+}
